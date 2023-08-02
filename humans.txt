@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Victor Moyano      victor.moyano@qubitsenergy.com  
 
 # THANKS
 
