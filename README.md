@@ -20,3 +20,6 @@ This is a simple web projects , deployment can be on any web server or even loca
 ## How To Contribue
 
 Please for this repository and them issue pull request for review.
+
+### Copyright
+Git.Training All right reserved.
