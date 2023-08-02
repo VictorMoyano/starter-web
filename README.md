@@ -15,3 +15,5 @@ As stated above , the main purpose is to provide simple examples for Git trainin
 This is a simple web projects , deployment can be on any web server or even local file system.
 
 ## How To Contribue
+
+Please for this repository and them issue pull request for review.
