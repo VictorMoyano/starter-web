@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<!--
+	Copyrigth  2023 Git.Training 
+<<<<<<< HEAD
+	Adding changes before rebasing conflicts
+=======
+<<<<<<< HEAD
+=======
+	These changes are from the feature
+	branch bigtrouble
+>>>>>>> f8ca5b8 ( fb adding some trouble to simple.html)
+>>>>>>> bigtrouble
+
+-->
+<head>
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+	<title>Lots of Trouble</title>
+>>>>>>> f8ca5b8 ( fb adding some trouble to simple.html)
+=======
+	<title>Lots a Trouble, in a little repo</title>
+>>>>>>> realwork
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+		<p>
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+			Just nothin´ but trouble.
+>>>>>>> f8ca5b8 ( fb adding some trouble to simple.html)
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; 2014 Git.Training, All rights reserved</p>
+=======
+			Some interesting staff goes here
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Victor Moyano 2014</p>
+>>>>>>> realwork
+	</footer>
+</body>
+</html>
